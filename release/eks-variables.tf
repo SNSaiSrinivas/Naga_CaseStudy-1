@@ -30,7 +30,7 @@ variable "subnet_count" {
 }
 
 variable "eks_name" {
-  default = "neeha-eks-cluster"
+  default = "naga-eks-cluster"
 }
 
 
